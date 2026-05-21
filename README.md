@@ -1,1 +1,2 @@
 # ai
+use it wisely
